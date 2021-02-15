@@ -1,5 +1,7 @@
 # BInGaN-JAP2019
 
+[![DOI](https://zenodo.org/badge/339133979.svg)](https://zenodo.org/badge/latestdoi/339133979)
+
 This is the data and code associated with the following [publication](http://aip.scitation.org/doi/10.1063/1.5108731) (see [BibTeX file](https://github.com/kevingreenman/BInGaN-JAP2019/blob/main/journal_citation.bib) for complete citation information):
 
 Kevin P. Greenman, Logan Williams, and Emmanouil Kioupakis, “Lattice-Constant and Band-Gap Tuning in Wurtzite and Zincblende BInGaN Alloys,” J. Appl. Phys., vol. 126, no. 5, p. 055702, Aug. 2019. DOI: 10.1063/1.5108731.
